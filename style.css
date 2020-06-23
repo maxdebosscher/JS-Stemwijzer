@@ -1,0 +1,21 @@
+body {
+  background: url('img/background.jpg') no-repeat fixed;
+  background-size: cover;
+}
+
+.tooltip-text {
+  max-height: 20vw;
+  max-width: 20vw;
+  position: absolute;
+  left: 18px;
+  bottom: 0;
+}
+
+.btn-skip {
+  cursor: pointer;
+  margin-left: 4rem;
+}
+
+#myBar {
+  height: 4px;
+}
